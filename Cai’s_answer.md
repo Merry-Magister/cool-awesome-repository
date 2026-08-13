@@ -10,3 +10,5 @@ S-p 2:
 S-p 3:
 # Step 4
 *Flowchart for Sub-problem 3:*
+
+<img width="1701" height="1283" alt="Image" src="https://github.com/user-attachments/assets/ab47cc5a-e157-4ccd-8a7f-7430e73b075b" />
