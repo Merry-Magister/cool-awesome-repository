@@ -5,9 +5,9 @@ Main Problem: Slow and crowded canteen
 - Sub-problem 2: Slow and faulty manual calculation
 - Sub-problem 3: No system to track food supply
 # Step 3
-- S-p 1:
-- S-p 2:
-- S-p 3:
+- S-p 1: CT Skill is ,
+- S-p 2: CT Skill is ,
+- S-p 3: CT Skill is Algorithm Design, create a system that tracks changes to food stocks and alerts the user if a food item has low amounts 
 # Step 4
 *Flowchart for Sub-problem 3:*
 
