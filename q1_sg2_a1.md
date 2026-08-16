@@ -1,3 +1,7 @@
+Cai-Li Avrencel V. Bragais
+9-Samat # 21
+Groupmates: Janine Ducos, Denise De Dios
+
 # Step 1
 Main Problem: Slow and crowded canteen
 # Step 2
