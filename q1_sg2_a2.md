@@ -1,3 +1,7 @@
+Cai-Li Avrencel V. Bragais
+9-Samat # 21
+Groupmates: Janine Ducos, Denise De Dios
+
 1.  uhhhh
 2. Pseudocode 1 is easier to understand because of the simple and few lines of code it uses, compared to Pseudocode 2.  Pseudocode 1 uses only one for loop and one conditional statement, and it doesn’t use any booleans for its logic.
 3. I would choose Pseudocode 1, as it has a simple and understandable structure, as noted in my answer for No. 2. Knowing that Pseudocode 1 has an easily-readable structure, it’s easy to add a new feature in a portion of the code where the program wouldn’t result in an error.
