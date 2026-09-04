@@ -5,7 +5,7 @@ class Lab:
 class Technician:
     def __init__(self, name, assigned_lab):
         self.name = name
-        self.assigned_lab = assigned_lab
+        self.assigned_lab = None
 
     def assign_lab(self, lab_obj):
         self.assigned_lab = lab_obj
