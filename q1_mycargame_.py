@@ -15,10 +15,10 @@ car = Car("Geely", "EX5")
 while car.battery > 0:
   act = input("What do we do? (g or c): ")
   if act == "g":
-    distance = int(input("How far?: ")
+    distance = int(input("How far?: "))
     car.go(distance)
   elif act == "c":
-    wH = int(input("How much to charge?: ")
+    wH = int(input("How much to charge?: "))
     car.charge(wH)
   else:
     print("Invalid action, try again!") 
