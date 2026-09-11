@@ -12,7 +12,7 @@ class Beaker(Glassware):
        print(f"I have a {self.name}")
     
     def __del__(self):
-        (f"a {self.name} was deleted !!")
+        prinr(f"a {self.name} was deleted !!")
         
     def putAway(self, name):
         super().putAway(self, name)
@@ -28,9 +28,8 @@ class Tray:
         self.fifthBeaker = Beaker("beaker filled with saltwater")
     
     def __del__(self):
-        ("Tray deleted !!")
+        print("Tray deleted !!")
         del self.firstBeaker; del self.secondBeaker; del self.thirdBeaker; del self.fourthBeaker; del self.fifthBeaker
 
 tray = Tray()
-tray.firstBeaker.putAway
 del tray
