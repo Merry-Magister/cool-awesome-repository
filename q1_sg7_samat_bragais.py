@@ -1,8 +1,7 @@
 class Glassware:
     def __init__(self, name):
         self.name = name
-        print(f"{self.name} will be used")
-
+        print(f"a {self.name} will be used")
 
 class Beaker:
     def __init__(self, name):
@@ -18,7 +17,12 @@ class Tray:
         self.beaker = Beaker
     def __del__(self):
         ("Tray deleted !!")
+        del self.beaker
 
-waterBeaker = Beaker("Beaker filled with water")
-
-
+tray = Tray()
+waterBeaker = Beaker("beaker filled with water")
+oilBeaker = Beaker("small beaker filled with some oil")
+emptyBeaker = Beaker("currently empty beaker")
+newBeaker = Beaker("recently cleaned beaker")
+saltBeaker = Beaker("beaker filled with saltwater")
+del tray
