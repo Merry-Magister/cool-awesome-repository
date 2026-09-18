@@ -4,7 +4,10 @@
 # About Me:
 I'm **Cai-Li Avrencel V. Bragais**
 *(you may know me from my kuya in Batch Reuvanos, Caje Alexneil V. Bragais)*
+
 and I'm from **9 - Samat** :D
+
+My favorite character is Magolor from the Kirby video game franchise by HAL Laboratory/Nintendo (shown in the pic above) :>
 
 # Links to FA Codes/Samples:
 ## Q1:
