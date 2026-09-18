@@ -10,7 +10,7 @@ and I'm from **9 - Samat** :D
 
 My favorite character is Magolor from the Kirby video game franchise by HAL Laboratory/Nintendo (shown in the pic above) :>
 
-# Links to FA Codes/Samples:
+# Links to FA Outputs/Sample Codes:
 ## Q1:
 ### Sample Codes:
 [Car](https://github.com/Merry-Magister/cool-awesome-repository/blob/main/Q1%20/%20q1_mycargame_.py)
