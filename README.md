@@ -9,7 +9,8 @@ and I'm from **9 - Samat** :D
 # Links to FA Codes/Samples:
 ## Q1:
 ### Sample Codes:
-
+[Car](https://github.com/Merry-Magister/cool-awesome-repository/blob/main/Q1%20/%20q1_mycargame_.py)
+[Tusoktusok]
 
 ### Python Codes/Markdown Files:
 [SG 2, Activity 1](https://github.com/Merry-Magister/cool-awesome-repository/blob/main/Q1%20/%20q1_sg2_a1.md)
