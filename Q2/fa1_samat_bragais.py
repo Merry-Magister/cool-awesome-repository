@@ -66,7 +66,7 @@ class Magazine(Publication):
     super().set_author(self, author)
 
   def display_info(self):
-    super().display_info(self)
+    super().display_info()
 
   def set_issue_number(self, issue_number):
     if issue_number > 0:
@@ -78,19 +78,18 @@ class Magazine(Publication):
     print("Issue number: ", end="")
     return self.__issue_number
 
-# Creating objects
+
 pub1 = Publication("Journal of Experimental Psychology", "Ratchiff, R. & Van Dongen, H.")
 book1 = Book("The Hobbit", "J.R.R. Tolkien", 310)
 mag1 = Magazine ("National Geographic", "Various Authors", 202)
 
-#Printing the information print
 print("Publication Information:")
 pub1.display_info()
 
 print("\nBook Information:")
-book1.set_number_of_pages(-310) #setting invalid value on attribute book1.display_info()
+book1.set_number_of_pages(-310) 
 print(book1.get_number_of_pages())
 
 print("\nMagazine Information:")
 mag1.display_info()
-print(mag1.get__issue_number())
+print(mag1.get_issue_number()) 
