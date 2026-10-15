@@ -27,3 +27,7 @@ My favorite character is Magolor from the Kirby video game franchise by HAL Labo
 [SG 6, Challenge 1](https://github.com/Merry-Magister/cool-awesome-repository/blob/main/Q1%20/%20q1_sg6_samat_bragais.py)
 
 [SG 7, Activity 1](https://github.com/Merry-Magister/cool-awesome-repository/blob/main/Q1%20/%20q1_sg7_samat_bragais.py)
+
+## Q2:
+### Python Codes
+[SG 9, FA 1](https://github.com/Merry-Magister/cool-awesome-repository/blob/main/Q2/fa1_samat_bragais.py)
