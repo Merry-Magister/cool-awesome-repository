@@ -5,7 +5,7 @@ class Patient:
     self.__bill_amount = bill_amount
 
   def get_name(self):
-    print(f" Patient Name: {self.name}")
+    print(f"Patient Name: {self.__name}")
 
   def set_name(self, name):
     self.__name = name
@@ -23,11 +23,11 @@ class Patient:
 # creating child classes
 class Senior_Patient(Patient):
   def calculate_bill(self):
-    print(f"Final Bill: {self.__bill_amount - (self.__bill_amount * 0.20)}\n")
+    print(f"Final Bill: {self._Patient__bill_amount - (self._Patient__bill_amount * 0.20)}\n")
 
 class PhilHealth_Patient(Patient):
   def calculate_bill(self):
-    print(f"Final Bill: {self.__bill_amount - (self.__bill_amount * 0.15)}\n")
+    print(f"Final Bill: {self._Patient__bill_amount - (self._Patient__bill_amount * 0.15)}\n")
 
 # adding objects
 regular_patient = Patient("Juan Dela Cruz", 15000)
