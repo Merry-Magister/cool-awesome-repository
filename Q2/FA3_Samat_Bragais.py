@@ -7,11 +7,14 @@ class Sensor(ABC):
 
 class PHSensor(Sensor):
   def get_reading(self):
-    print("7.2 pH")
+    return "7.2 pH"
 
 class TempSensor(Sensor):
   def get_reading(self):
-    print("24.5°C")
+    return "24.5°C"
 
 first_sensor = PHSensor()
 second_sensor = TempSensor()
+
+print("pH Reading:",first_sensor.get_reading())
+print("Temperature Reading:",second_sensor.get_reading())
